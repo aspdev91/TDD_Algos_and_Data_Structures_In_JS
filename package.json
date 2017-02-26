@@ -1,0 +1,25 @@
+{
+  "name": "algos_and_ds_in_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha  -w ./**/*.test.js"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "sinon": "^1.17.6",
+    "sinon-chai": "^2.8.0",
+    "mocha": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspdev91/TDD_Algos_and_Data_Structures_In_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aspdev91/TDD_Algos_and_Data_Structures_In_JS/issues"
+  },
+  "homepage": "https://github.com/aspdev91/TDD_Algos_and_Data_Structures_In_JS#readme"
+}
